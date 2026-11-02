@@ -48,6 +48,7 @@ public class MainViewController implements Initializable {
     private RadioMenuItem mediumItem;
     @FXML
     private RadioMenuItem largeItem;
+    
     /**
      * Initializes the controller class.
      */
@@ -86,12 +87,10 @@ public class MainViewController implements Initializable {
 
     @FXML
     private void handleOpen(ActionEvent event) {
-            System.out.println("open");
     }
 
     @FXML
     private void handleClose(ActionEvent event) {
-        System.out.println("close");
     }
 
     @FXML
