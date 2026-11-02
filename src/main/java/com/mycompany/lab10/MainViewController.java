@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMLController.java to edit this template
- */
 package com.mycompany.lab10;
 
 import java.net.URL;
@@ -22,7 +18,7 @@ import javafx.scene.layout.BorderPane;
 /**
  * FXML Controller class
  *
- * @author 2588731
+ * @author Daniel Haddadeen (2588731)
  */
 public class MainViewController implements Initializable {
     
